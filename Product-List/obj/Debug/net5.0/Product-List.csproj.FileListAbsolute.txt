@@ -1,0 +1,15 @@
+C:\Users\bilal\source\repos\KampIntro\Product-List\bin\Debug\net5.0\Product-List.exe
+C:\Users\bilal\source\repos\KampIntro\Product-List\bin\Debug\net5.0\Product-List.deps.json
+C:\Users\bilal\source\repos\KampIntro\Product-List\bin\Debug\net5.0\Product-List.runtimeconfig.json
+C:\Users\bilal\source\repos\KampIntro\Product-List\bin\Debug\net5.0\Product-List.runtimeconfig.dev.json
+C:\Users\bilal\source\repos\KampIntro\Product-List\bin\Debug\net5.0\Product-List.dll
+C:\Users\bilal\source\repos\KampIntro\Product-List\bin\Debug\net5.0\ref\Product-List.dll
+C:\Users\bilal\source\repos\KampIntro\Product-List\bin\Debug\net5.0\Product-List.pdb
+C:\Users\bilal\source\repos\KampIntro\Product-List\obj\Debug\net5.0\Product-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\KampIntro\Product-List\obj\Debug\net5.0\Product-List.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\KampIntro\Product-List\obj\Debug\net5.0\Product-List.AssemblyInfo.cs
+C:\Users\bilal\source\repos\KampIntro\Product-List\obj\Debug\net5.0\Product-List.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\KampIntro\Product-List\obj\Debug\net5.0\Product-List.dll
+C:\Users\bilal\source\repos\KampIntro\Product-List\obj\Debug\net5.0\ref\Product-List.dll
+C:\Users\bilal\source\repos\KampIntro\Product-List\obj\Debug\net5.0\Product-List.pdb
+C:\Users\bilal\source\repos\KampIntro\Product-List\obj\Debug\net5.0\Product-List.genruntimeconfig.cache

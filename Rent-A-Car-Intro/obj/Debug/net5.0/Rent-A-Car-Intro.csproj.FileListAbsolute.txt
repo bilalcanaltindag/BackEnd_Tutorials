@@ -1,0 +1,16 @@
+C:\Users\bilal\source\repos\KampIntro\Rent-A-Car-Intro\bin\Debug\net5.0\Rent-A-Car-Intro.exe
+C:\Users\bilal\source\repos\KampIntro\Rent-A-Car-Intro\bin\Debug\net5.0\Rent-A-Car-Intro.deps.json
+C:\Users\bilal\source\repos\KampIntro\Rent-A-Car-Intro\bin\Debug\net5.0\Rent-A-Car-Intro.runtimeconfig.json
+C:\Users\bilal\source\repos\KampIntro\Rent-A-Car-Intro\bin\Debug\net5.0\Rent-A-Car-Intro.runtimeconfig.dev.json
+C:\Users\bilal\source\repos\KampIntro\Rent-A-Car-Intro\bin\Debug\net5.0\Rent-A-Car-Intro.dll
+C:\Users\bilal\source\repos\KampIntro\Rent-A-Car-Intro\bin\Debug\net5.0\ref\Rent-A-Car-Intro.dll
+C:\Users\bilal\source\repos\KampIntro\Rent-A-Car-Intro\bin\Debug\net5.0\Rent-A-Car-Intro.pdb
+C:\Users\bilal\source\repos\KampIntro\Rent-A-Car-Intro\obj\Debug\net5.0\Rent-A-Car-Intro.csproj.AssemblyReference.cache
+C:\Users\bilal\source\repos\KampIntro\Rent-A-Car-Intro\obj\Debug\net5.0\Rent-A-Car-Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\KampIntro\Rent-A-Car-Intro\obj\Debug\net5.0\Rent-A-Car-Intro.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\KampIntro\Rent-A-Car-Intro\obj\Debug\net5.0\Rent-A-Car-Intro.AssemblyInfo.cs
+C:\Users\bilal\source\repos\KampIntro\Rent-A-Car-Intro\obj\Debug\net5.0\Rent-A-Car-Intro.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\KampIntro\Rent-A-Car-Intro\obj\Debug\net5.0\Rent-A-Car-Intro.dll
+C:\Users\bilal\source\repos\KampIntro\Rent-A-Car-Intro\obj\Debug\net5.0\ref\Rent-A-Car-Intro.dll
+C:\Users\bilal\source\repos\KampIntro\Rent-A-Car-Intro\obj\Debug\net5.0\Rent-A-Car-Intro.pdb
+C:\Users\bilal\source\repos\KampIntro\Rent-A-Car-Intro\obj\Debug\net5.0\Rent-A-Car-Intro.genruntimeconfig.cache
