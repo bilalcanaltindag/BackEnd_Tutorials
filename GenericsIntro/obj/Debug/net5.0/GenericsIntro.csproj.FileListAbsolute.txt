@@ -1,0 +1,16 @@
+C:\Users\bilal\source\repos\KampIntro\GenericsIntro\bin\Debug\net5.0\GenericsIntro.exe
+C:\Users\bilal\source\repos\KampIntro\GenericsIntro\bin\Debug\net5.0\GenericsIntro.deps.json
+C:\Users\bilal\source\repos\KampIntro\GenericsIntro\bin\Debug\net5.0\GenericsIntro.runtimeconfig.json
+C:\Users\bilal\source\repos\KampIntro\GenericsIntro\bin\Debug\net5.0\GenericsIntro.runtimeconfig.dev.json
+C:\Users\bilal\source\repos\KampIntro\GenericsIntro\bin\Debug\net5.0\GenericsIntro.dll
+C:\Users\bilal\source\repos\KampIntro\GenericsIntro\bin\Debug\net5.0\ref\GenericsIntro.dll
+C:\Users\bilal\source\repos\KampIntro\GenericsIntro\bin\Debug\net5.0\GenericsIntro.pdb
+C:\Users\bilal\source\repos\KampIntro\GenericsIntro\obj\Debug\net5.0\GenericsIntro.csproj.AssemblyReference.cache
+C:\Users\bilal\source\repos\KampIntro\GenericsIntro\obj\Debug\net5.0\GenericsIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\KampIntro\GenericsIntro\obj\Debug\net5.0\GenericsIntro.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\KampIntro\GenericsIntro\obj\Debug\net5.0\GenericsIntro.AssemblyInfo.cs
+C:\Users\bilal\source\repos\KampIntro\GenericsIntro\obj\Debug\net5.0\GenericsIntro.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\KampIntro\GenericsIntro\obj\Debug\net5.0\GenericsIntro.dll
+C:\Users\bilal\source\repos\KampIntro\GenericsIntro\obj\Debug\net5.0\ref\GenericsIntro.dll
+C:\Users\bilal\source\repos\KampIntro\GenericsIntro\obj\Debug\net5.0\GenericsIntro.pdb
+C:\Users\bilal\source\repos\KampIntro\GenericsIntro\obj\Debug\net5.0\GenericsIntro.genruntimeconfig.cache
