@@ -1,0 +1,15 @@
+C:\Users\bilal\source\repos\KampIntro\HackerRankExample\bin\Debug\net5.0\HackerRankExample.exe
+C:\Users\bilal\source\repos\KampIntro\HackerRankExample\bin\Debug\net5.0\HackerRankExample.deps.json
+C:\Users\bilal\source\repos\KampIntro\HackerRankExample\bin\Debug\net5.0\HackerRankExample.runtimeconfig.json
+C:\Users\bilal\source\repos\KampIntro\HackerRankExample\bin\Debug\net5.0\HackerRankExample.runtimeconfig.dev.json
+C:\Users\bilal\source\repos\KampIntro\HackerRankExample\bin\Debug\net5.0\HackerRankExample.dll
+C:\Users\bilal\source\repos\KampIntro\HackerRankExample\bin\Debug\net5.0\ref\HackerRankExample.dll
+C:\Users\bilal\source\repos\KampIntro\HackerRankExample\bin\Debug\net5.0\HackerRankExample.pdb
+C:\Users\bilal\source\repos\KampIntro\HackerRankExample\obj\Debug\net5.0\HackerRankExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\KampIntro\HackerRankExample\obj\Debug\net5.0\HackerRankExample.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\KampIntro\HackerRankExample\obj\Debug\net5.0\HackerRankExample.AssemblyInfo.cs
+C:\Users\bilal\source\repos\KampIntro\HackerRankExample\obj\Debug\net5.0\HackerRankExample.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\KampIntro\HackerRankExample\obj\Debug\net5.0\HackerRankExample.dll
+C:\Users\bilal\source\repos\KampIntro\HackerRankExample\obj\Debug\net5.0\ref\HackerRankExample.dll
+C:\Users\bilal\source\repos\KampIntro\HackerRankExample\obj\Debug\net5.0\HackerRankExample.pdb
+C:\Users\bilal\source\repos\KampIntro\HackerRankExample\obj\Debug\net5.0\HackerRankExample.genruntimeconfig.cache

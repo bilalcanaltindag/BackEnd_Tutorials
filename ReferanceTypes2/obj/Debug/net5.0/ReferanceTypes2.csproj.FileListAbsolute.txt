@@ -1,0 +1,16 @@
+C:\Users\bilal\source\repos\KampIntro\ReferanceTypes2\obj\Debug\net5.0\ReferanceTypes2.csproj.AssemblyReference.cache
+C:\Users\bilal\source\repos\KampIntro\ReferanceTypes2\obj\Debug\net5.0\ReferanceTypes2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\KampIntro\ReferanceTypes2\obj\Debug\net5.0\ReferanceTypes2.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\KampIntro\ReferanceTypes2\obj\Debug\net5.0\ReferanceTypes2.AssemblyInfo.cs
+C:\Users\bilal\source\repos\KampIntro\ReferanceTypes2\obj\Debug\net5.0\ReferanceTypes2.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\KampIntro\ReferanceTypes2\bin\Debug\net5.0\ReferanceTypes2.exe
+C:\Users\bilal\source\repos\KampIntro\ReferanceTypes2\bin\Debug\net5.0\ReferanceTypes2.deps.json
+C:\Users\bilal\source\repos\KampIntro\ReferanceTypes2\bin\Debug\net5.0\ReferanceTypes2.runtimeconfig.json
+C:\Users\bilal\source\repos\KampIntro\ReferanceTypes2\bin\Debug\net5.0\ReferanceTypes2.runtimeconfig.dev.json
+C:\Users\bilal\source\repos\KampIntro\ReferanceTypes2\bin\Debug\net5.0\ReferanceTypes2.dll
+C:\Users\bilal\source\repos\KampIntro\ReferanceTypes2\bin\Debug\net5.0\ref\ReferanceTypes2.dll
+C:\Users\bilal\source\repos\KampIntro\ReferanceTypes2\bin\Debug\net5.0\ReferanceTypes2.pdb
+C:\Users\bilal\source\repos\KampIntro\ReferanceTypes2\obj\Debug\net5.0\ReferanceTypes2.dll
+C:\Users\bilal\source\repos\KampIntro\ReferanceTypes2\obj\Debug\net5.0\ref\ReferanceTypes2.dll
+C:\Users\bilal\source\repos\KampIntro\ReferanceTypes2\obj\Debug\net5.0\ReferanceTypes2.pdb
+C:\Users\bilal\source\repos\KampIntro\ReferanceTypes2\obj\Debug\net5.0\ReferanceTypes2.genruntimeconfig.cache

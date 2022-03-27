@@ -1,0 +1,16 @@
+C:\Users\bilal\source\repos\KampIntro\ReferansTypes_ValueTypes\bin\Debug\net5.0\ReferansTypes_ValueTypes.exe
+C:\Users\bilal\source\repos\KampIntro\ReferansTypes_ValueTypes\bin\Debug\net5.0\ReferansTypes_ValueTypes.deps.json
+C:\Users\bilal\source\repos\KampIntro\ReferansTypes_ValueTypes\bin\Debug\net5.0\ReferansTypes_ValueTypes.runtimeconfig.json
+C:\Users\bilal\source\repos\KampIntro\ReferansTypes_ValueTypes\bin\Debug\net5.0\ReferansTypes_ValueTypes.runtimeconfig.dev.json
+C:\Users\bilal\source\repos\KampIntro\ReferansTypes_ValueTypes\bin\Debug\net5.0\ReferansTypes_ValueTypes.dll
+C:\Users\bilal\source\repos\KampIntro\ReferansTypes_ValueTypes\bin\Debug\net5.0\ref\ReferansTypes_ValueTypes.dll
+C:\Users\bilal\source\repos\KampIntro\ReferansTypes_ValueTypes\bin\Debug\net5.0\ReferansTypes_ValueTypes.pdb
+C:\Users\bilal\source\repos\KampIntro\ReferansTypes_ValueTypes\obj\Debug\net5.0\ReferansTypes_ValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\KampIntro\ReferansTypes_ValueTypes\obj\Debug\net5.0\ReferansTypes_ValueTypes.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\KampIntro\ReferansTypes_ValueTypes\obj\Debug\net5.0\ReferansTypes_ValueTypes.AssemblyInfo.cs
+C:\Users\bilal\source\repos\KampIntro\ReferansTypes_ValueTypes\obj\Debug\net5.0\ReferansTypes_ValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\KampIntro\ReferansTypes_ValueTypes\obj\Debug\net5.0\ReferansTypes_ValueTypes.dll
+C:\Users\bilal\source\repos\KampIntro\ReferansTypes_ValueTypes\obj\Debug\net5.0\ref\ReferansTypes_ValueTypes.dll
+C:\Users\bilal\source\repos\KampIntro\ReferansTypes_ValueTypes\obj\Debug\net5.0\ReferansTypes_ValueTypes.pdb
+C:\Users\bilal\source\repos\KampIntro\ReferansTypes_ValueTypes\obj\Debug\net5.0\ReferansTypes_ValueTypes.genruntimeconfig.cache
+C:\Users\bilal\source\repos\KampIntro\ReferansTypes_ValueTypes\obj\Debug\net5.0\ReferansTypes_ValueTypes.csproj.AssemblyReference.cache

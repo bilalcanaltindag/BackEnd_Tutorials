@@ -1,0 +1,10 @@
+C:\Users\bilal\source\repos\KampIntro\RecapDemo_WinForm\bin\Debug\RecapDemo_WinForm.exe.config
+C:\Users\bilal\source\repos\KampIntro\RecapDemo_WinForm\bin\Debug\RecapDemo_WinForm.exe
+C:\Users\bilal\source\repos\KampIntro\RecapDemo_WinForm\bin\Debug\RecapDemo_WinForm.pdb
+C:\Users\bilal\source\repos\KampIntro\RecapDemo_WinForm\obj\Debug\RecapDemo_WinForm.csproj.AssemblyReference.cache
+C:\Users\bilal\source\repos\KampIntro\RecapDemo_WinForm\obj\Debug\RecapDemo_WinForm.Form1.resources
+C:\Users\bilal\source\repos\KampIntro\RecapDemo_WinForm\obj\Debug\RecapDemo_WinForm.Properties.Resources.resources
+C:\Users\bilal\source\repos\KampIntro\RecapDemo_WinForm\obj\Debug\RecapDemo_WinForm.csproj.GenerateResource.cache
+C:\Users\bilal\source\repos\KampIntro\RecapDemo_WinForm\obj\Debug\RecapDemo_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\KampIntro\RecapDemo_WinForm\obj\Debug\RecapDemo_WinForm.exe
+C:\Users\bilal\source\repos\KampIntro\RecapDemo_WinForm\obj\Debug\RecapDemo_WinForm.pdb

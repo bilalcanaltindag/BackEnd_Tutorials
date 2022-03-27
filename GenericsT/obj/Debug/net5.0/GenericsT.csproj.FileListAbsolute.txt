@@ -1,0 +1,15 @@
+C:\Users\bilal\source\repos\KampIntro\GenericsT\bin\Debug\net5.0\GenericsT.exe
+C:\Users\bilal\source\repos\KampIntro\GenericsT\bin\Debug\net5.0\GenericsT.deps.json
+C:\Users\bilal\source\repos\KampIntro\GenericsT\bin\Debug\net5.0\GenericsT.runtimeconfig.json
+C:\Users\bilal\source\repos\KampIntro\GenericsT\bin\Debug\net5.0\GenericsT.runtimeconfig.dev.json
+C:\Users\bilal\source\repos\KampIntro\GenericsT\bin\Debug\net5.0\GenericsT.dll
+C:\Users\bilal\source\repos\KampIntro\GenericsT\bin\Debug\net5.0\ref\GenericsT.dll
+C:\Users\bilal\source\repos\KampIntro\GenericsT\bin\Debug\net5.0\GenericsT.pdb
+C:\Users\bilal\source\repos\KampIntro\GenericsT\obj\Debug\net5.0\GenericsT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\KampIntro\GenericsT\obj\Debug\net5.0\GenericsT.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\KampIntro\GenericsT\obj\Debug\net5.0\GenericsT.AssemblyInfo.cs
+C:\Users\bilal\source\repos\KampIntro\GenericsT\obj\Debug\net5.0\GenericsT.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\KampIntro\GenericsT\obj\Debug\net5.0\GenericsT.dll
+C:\Users\bilal\source\repos\KampIntro\GenericsT\obj\Debug\net5.0\ref\GenericsT.dll
+C:\Users\bilal\source\repos\KampIntro\GenericsT\obj\Debug\net5.0\GenericsT.pdb
+C:\Users\bilal\source\repos\KampIntro\GenericsT\obj\Debug\net5.0\GenericsT.genruntimeconfig.cache
