@@ -23,6 +23,63 @@ namespace LinqProject
                 new Product{ProductId=5, CategoryId=2, ProductName="Apple Laptop", QuiantityPerUnit="2 GB Ram", UnitPrice=8000, UnitsInStock=0}
             };
 
+            // Test(products);
+            // GetProducts(products;
+            // AnyTest(products);
+            // FindTest(products);
+            // FindAllTest(products);
+            // WhereTest(products);
+            // TestWithSqlQuery(products);
+
+        }
+
+        private static void TestWithSqlQuery(List<Product> products)
+        {
+            var result = from p in products
+                         where p.UnitPrice > 6000 && p.UnitsInStock > 1
+                         orderby p.UnitPrice descending, p.ProductName ascending
+                         select p;
+
+            foreach (var product in result)
+            {
+                Console.WriteLine(product.ProductName + " " + product.UnitPrice);
+            }
+        }
+
+        private static void WhereTest(List<Product> products)
+        {
+            var result = products.Where(p => p.ProductName.Contains("top")).OrderByDescending(p => p.UnitPrice).ThenByDescending(p => p.ProductName); //Where return value is "List"
+                                                                                                                // Then command is work after previous query                          
+
+            foreach (var product in result)
+            {
+                Console.WriteLine(product.ProductName + " " + product.UnitPrice);
+            }
+        }
+
+        private static void FindAllTest(List<Product> products)
+        {
+            var result = products.FindAll(p => p.ProductName.Contains("top")); //FindAll return value is "List" and Contains searching all product's in name "top"
+            foreach (var product in result)
+            {
+                Console.WriteLine(product.ProductName);
+            }
+        }
+
+        private static void FindTest(List<Product> products)
+        {
+            var result = products.Find(p => p.ProductId == 3); //true/false return value "Find query"
+            Console.WriteLine(result.ProductName);
+        }
+
+        private static void AnyTest(List<Product> products)
+        {
+            var result = products.Any(p => p.ProductName == "Acer Laptop");
+            Console.WriteLine(result); //true/false return value "Any query"
+        }
+
+        private static void Test(List<Product> products)
+        {
             Console.WriteLine("Algoritmik----------");
 
             foreach (var product in products)
@@ -41,8 +98,6 @@ namespace LinqProject
             {
                 Console.WriteLine(product.ProductName);
             }
-
-            GetProducts(products);
         }
 
         static List<Product> GetProducts(List<Product> products)
